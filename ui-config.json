@@ -1,0 +1,9 @@
+{
+  "txt2img/Prompt/value": "masterpiece, best quality, very aesthetic, absurdres",
+  "txt2img/Negative prompt/value": "nsfw, lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]",
+  "img2img/Prompt/value": "masterpiece, best quality, very aesthetic, absurdres",
+  "img2img/Negative prompt/value": "nsfw, lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]",
+  "customscript/sampler.py/txt2img/Sampling method/value": "Euler a",
+  "customscript/sampler.py/txt2img/Sampling steps/value": 28,
+  "customscript/sampler.py/txt2img/Scheduler/value": "Automatic"
+}
